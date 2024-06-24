@@ -1,0 +1,17 @@
+.catalog-overview-section {
+  width: 100%;
+  height: 500px;
+}
+.catalog-overview-section-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 10%;
+    padding-left:12px ;
+    padding-right:12px ;
+
+}
+.catalog-overview-section-more:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
