@@ -1,0 +1,15 @@
+.upcoming-events{
+    width: 98%;
+    height: fit-content;
+    border-radius: 12px;
+    padding: 16px;
+    background-color: var(--background-secondary);
+    box-shadow: var(--box-shadow);
+    margin-top: 16px;
+}
+.upcoming-events-header-group{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}

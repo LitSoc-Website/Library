@@ -1,0 +1,39 @@
+.catalog-search-page-navigator{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 32px;
+}
+.catalog-search-page-navigator-navigate{
+    cursor: pointer;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.catalog-search-page-navigator-navigate:hover{
+   text-decoration: underline;
+}
+.number-active{
+    background-color: rgba(54,38,167,0.3);
+    border-radius: 3px;
+}
+.catalog-search-page-numbers{
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.catalog-search-page-number{
+    width: 1.5rem;
+    height: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.catalog-search-page-number:hover{
+    background-color: rgba(54,38,167,0.3);
+    border-radius: 3px;
+}

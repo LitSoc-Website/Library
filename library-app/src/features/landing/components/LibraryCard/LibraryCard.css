@@ -1,0 +1,22 @@
+.get-library-card{
+    width: 98%;
+    height: fit-content;
+    border-radius: 12px;
+    padding: 16px;
+    background-color: var(--background-secondary);
+    box-shadow: var(--box-shadow);
+    margin-top: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+.get-library-card-image{
+    width: 50%;
+    margin-bottom: 16px;
+}
+.get-library-card-link:hover{
+    cursor: pointer;
+    text-decoration: none;
+    color: var(--primary);
+}
